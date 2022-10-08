@@ -6,11 +6,8 @@ public class recapDemo2 {
         for (double number : myList){
             total = total+number;
 
-
-
         }
         System.out.println(total);
-
 
     }
 }
